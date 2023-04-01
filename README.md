@@ -1,16 +1,17 @@
-### Hi there 👋
+**Hello on my GitHub! I'm Jakub** :v:
 
-<!--
-**cruznovsky/cruznovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the beginning of 2023 I decided to start learning to become Data Analyst. 
 
-Here are some ideas to get you started:
+In my portfolio, you can see my entire learning path - from zero to Data Analyst :chart_with_upwards_trend:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm focusing on SQL and get to know from scratch, how all of it is working!
+
+My future plans:
+
+- PowerBI :bar_chart:
+- Python :snake:
+- Postgraduate studies: Data Science in Python
+
+You contact with me here :point_down:
+
+https://www.linkedin.com/in/jaakub-sadowski/

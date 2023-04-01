@@ -12,6 +12,6 @@ My future plans:
 - Python :snake:
 - Postgraduate studies: Data Science in Python
 
-You contact with me here :point_down:
+You can contact with me here :point_down:
 
 https://www.linkedin.com/in/jaakub-sadowski/
